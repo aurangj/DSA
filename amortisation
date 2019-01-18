@@ -1,0 +1,7 @@
+Amortisation is basically the calculation of average cost of the operations.
+There are certain operations for the data structure such as arrays when they reach the upper limit. The size needs to  be
+doubled and elements be moved around. but the cost of  subsequent access remains constant.
+So, if we consider the cost of doubling of array plus cost of subsequent access. the average cost is basically constant
+as 2x increase in size is not a frequent operation.
+
+
